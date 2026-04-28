@@ -1,0 +1,4 @@
+### GET all data from table
+
+http://localhost:3000/api/plants
+Content-Type: application/json
